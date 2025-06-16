@@ -13,6 +13,6 @@ I’m a UX/UI Designer & Web Developer based in Vancouver, B.C. I turn ideas int
 - 💅 [Beauty by Amy](https://mariaelenacossio.github.io/beautybyamy.github.io/) – Responsive HTML/CSS/JS site
 
 ### 📫 Let’s connect
-- 🌐 [Portfolio](https://mariaelenacossio.wixstudio.com/portfolio-website)
-- 💼 [LinkedIn](https://linkedin.com/in/mariaelenacossio)
+- 🌐 [Portfolio](https://www.mariaelena-cossioclark.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariaelena-cossio-clark/)
 - ✉️ mariaelena.cossio@outlook.com
