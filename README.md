@@ -9,7 +9,7 @@ I’m a UX/UI Designer & Web Developer based in Vancouver, B.C. I turn ideas int
 
 ### 💼 Featured Projects
 - 🧴 [BEYOND Skincare](https://mariaelenacossio.github.io/DGL-309-design-system/) – Brand identity + responsive design
-- 📡 [Teleco Sales](https://telecosales.com.au/) – Structured multi-service layout
+- 📡 [Compass Relocation](https://www.compassrelo.ca/) – Structured multi-service layout
 - 💅 [Beauty by Amy](https://mariaelenacossio.github.io/beautybyamy.github.io/) – Responsive HTML/CSS/JS site
 
 ### 📫 Let’s connect
